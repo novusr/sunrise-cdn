@@ -1,0 +1,10 @@
+{
+    "servers": [
+        {
+            "host": "192.168.1.25",
+            "port": "7777",
+            "password": "",
+            "name": "Sunrise Roleplay"
+        }
+    ]
+}
