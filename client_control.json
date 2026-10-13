@@ -1,0 +1,16 @@
+{
+  "status": "suspended",
+  "client_name": "Fourtys Mobile",
+  "version": 1,
+  "rent": {
+    "is_rented": true,
+    "expires_at": "2029-12-31",
+    "owner": "Server Fourtys RP"
+  },
+  "lock_dialog": {
+    "title": "Akses Client Dinonaktifkan",
+    "message": "Masa sewa client ini telah berakhir atau dinonaktifkan oleh developer.\n\nSilakan hubungi developer untuk info lebih lanut.",
+    "button_text": "Hubungi Developer",
+    "contact_url": "https://wa.me/6287897662275"
+  }
+}
