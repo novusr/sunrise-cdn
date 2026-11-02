@@ -1,0 +1,19 @@
+{
+    "schema_version": 1,
+    "items": [
+        {
+            "id": "sunrise-island-launcher",
+            "category": "LAUNCHER",
+            "title": "Tampilan baru Sunrise Island",
+            "body": "Launcher kini memakai identitas Sunrise Island, foto sinematik yang lebih terang di sisi kanan, dan kartu berita server di halaman Home.",
+            "published_at": "2026-11-03"
+        },
+        {
+            "id": "settings-in-home",
+            "category": "UPDATE",
+            "title": "Pengaturan kini satu halaman",
+            "body": "Akses Settings langsung dari navigasi Home. Tekan SAVE untuk menerapkan perubahan. Jika berpindah tab sebelum menyimpan, launcher akan meminta konfirmasi Discard changes.",
+            "published_at": "2026-11-03"
+        }
+    ]
+}
