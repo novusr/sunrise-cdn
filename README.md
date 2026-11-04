@@ -13,7 +13,6 @@ Repositori ini berfungsi sebagai server CDN publik untuk distribusi resource dan
 | **data.json** | `https://raw.githubusercontent.com/novusr/sunrise-cdn/main/data.json` |
 | **servers.json** | `https://raw.githubusercontent.com/novusr/sunrise-cdn/main/servers.json` |
 | **changelog.txt** | `https://raw.githubusercontent.com/novusr/sunrise-cdn/main/changelog.txt` |
-| **faq.json** | `https://raw.githubusercontent.com/novusr/sunrise-cdn/main/faq.json` |
 
 ---
 
@@ -46,5 +45,10 @@ public static final String web = "https://raw.githubusercontent.com/novusr/sunri
 public static final String update = web + "update.json";
 public static final String discord = web + "discord";
 public static final String changelog = web + "changelog.txt";
-public static final String hostedServersFileStr = web + "servers.json";
 ```
+
+## Pemeliharaan konfigurasi
+
+Sumber konfigurasi launcher berada di repository CDN ini. `update.json`, `data.json`, `news.json`, dan `servers.json` (fallback konfigurasi server) tetap aktif. Hosting lokal di repository Android telah dihentikan.
+
+`banned.json`, `faq.json`, `images/previews.json`, dan `client_control.json` dihapus karena tidak digunakan oleh source client saat audit.
