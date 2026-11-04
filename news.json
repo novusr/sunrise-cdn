@@ -2,18 +2,20 @@
     "schema_version": 1,
     "items": [
         {
-            "id": "sunrise-island-launcher",
-            "category": "LAUNCHER",
-            "title": "Tampilan baru Sunrise Island",
-            "body": "Launcher kini memakai identitas Sunrise Island, foto sinematik yang lebih terang di sisi kanan, dan kartu berita server di halaman Home.",
-            "published_at": "2026-11-03"
+            "id": "demo-sunrise-car-meet-20261104",
+            "category": "DEMO · EVENT",
+            "title": "Sunrise Car Meet: waktunya pamer kendaraan",
+            "body": "Ini berita contoh untuk menguji pergantian isi dan gambar dari server.\n\nBayangkan deretan kendaraan favorit, obrolan santai, dan sesi foto bersama komunitas Sunrise Island. Foto mobil di atas adalah ilustrasi, bukan screenshot permainan.\n\nIni belum merupakan pengumuman event resmi. Jadwal dan detail kegiatan akan diumumkan melalui kanal komunitas.",
+            "published_at": "2026-11-04",
+            "image_url": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1000&q=85&fit=crop"
         },
         {
-            "id": "settings-in-home",
-            "category": "UPDATE",
-            "title": "Pengaturan kini satu halaman",
-            "body": "Akses Settings langsung dari navigasi Home. Tekan SAVE untuk menerapkan perubahan. Jika berpindah tab sebelum menyimpan, launcher akan meminta konfirmasi Discard changes.",
-            "published_at": "2026-11-03"
+            "id": "demo-sunrise-city-stories-20261104",
+            "category": "DEMO · KOMUNITAS",
+            "title": "Cerita baru dimulai di kota ini",
+            "body": "Ini contoh berita komunitas untuk menguji kartu kedua dan halaman detail.\n\nDari pertemanan baru hingga perjalanan membangun karakter, setiap pemain membawa cerita sendiri ke Sunrise Island.\n\nGambar kota merupakan ilustrasi, bukan lokasi atau fitur baru yang sudah diumumkan dalam game. Konten demo ini dapat diganti lewat news.json tanpa memperbarui APK.",
+            "published_at": "2026-11-04",
+            "image_url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1000&q=85&fit=crop"
         }
     ]
 }
